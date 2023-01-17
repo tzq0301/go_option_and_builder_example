@@ -1,0 +1,1 @@
+#### [扩展 Go 的 Option 设计模式：支持 Option 动态配置](https://zhuanlan.zhihu.com/p/599788952)
